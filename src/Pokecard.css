@@ -1,0 +1,21 @@
+.Pokecard{
+    border: 2px solid purple;
+    width: 250px;
+    height: px;
+    margin:1rem;
+    box-shadow: 7px 10px 12px rgba(0,0,0,0.56);
+    text-align: center;
+    background-color:white;
+    border-radius: 5px
+
+    
+
+}
+.pokebomma{
+    border: 2px solid;
+    background-color: rgb(186, 181, 181);
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}

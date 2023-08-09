@@ -1,0 +1,12 @@
+.Pokedex{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+.winner{ 
+color: #4caf50;
+}
+.losing{ 
+    color:#e91e63
+
+}
